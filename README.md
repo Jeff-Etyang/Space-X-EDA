@@ -1,12 +1,12 @@
-Dataset
-The dataset used is SpaceX_Falcon9.csv, which includes the following columns:
+Dataset  
+The dataset used is SpaceX_Falcon9.csv, which includes the following columns:  
 
-FlightNumber: Identifier for the flight
-Date: Date of the flight
-BoosterVersion: Version of the booster used
-PayloadMass: Mass of the payload
-Orbit: Orbit type for the mission
-LaunchSite: Launch site of the mission
+FlightNumber: Identifier for the flight  
+Date: Date of the flight  
+BoosterVersion: Version of the booster used  
+PayloadMass: Mass of the payload  
+Orbit: Orbit type for the mission  
+LaunchSite: Launch site of the mission  
 Outcome: Outcome of the landing
 Flights: Number of flights
 GridFins: Whether grid fins were used
